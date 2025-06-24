@@ -21,4 +21,3 @@ The last command will ask for password which is ‘pass@word1’
 
 * Mandatory: Before final submission run the following command: 
 	mvn test
-
